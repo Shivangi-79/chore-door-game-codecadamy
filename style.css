@@ -63,8 +63,8 @@ cursor: pointer;
   
 .start-row {
     margin: auto;
-    width: 80%;
-    height: 50%;
+    width: 50%;
+    height: 30%;
     font-family: ‘Work Sans’;
     background-color: #eb6536;
     padding-top: 0.5em;
