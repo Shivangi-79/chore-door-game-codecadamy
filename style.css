@@ -1,0 +1,96 @@
+body {
+    background-color: #FFEDDB;
+    margin: 0px;
+    font-size: 1.5em;
+    
+}
+
+.header {
+    background-color: #BF9270;
+    text-align: center;
+}
+  
+.title-row {
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+    padding: 0.5em;
+}
+  
+.instructions-title {
+    display: inline;
+    font-size: 2em;
+    color: #694E4E;
+    font-family: 'Work Sans';
+}
+  
+/* style the table */
+.instructions-row {
+    margin: 0 auto;
+    width: 400px;
+}
+  
+.instructions-number {
+    padding-right: 25px;
+    font-size: 36px;
+    color: #694E4E;
+    font-family: monospace;
+}
+  
+.instructions-text {
+    padding: 10px;
+    font-size: 14px;
+    color: #694E4E;
+    font-family: monospace;
+}
+/* style the door*/
+/*#door1 {
+cursor: pointer;
+}*/
+  
+.door-row {
+    text-align: center;
+    border-radius: 0.5em;
+}
+  
+.door-frame {
+    cursor: pointer;
+    padding: 10px;
+    
+}
+  
+/* style "start-row*/
+  
+.start-row {
+    margin: auto;
+    width: 80%;
+    height: 50%;
+    font-family: ‘Work Sans’;
+    background-color: #eb6536;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 0.9em;
+    font-weight: 1000;
+    text-align: center;
+    color: #270082;
+    margin-bottom: 1.167em;
+    cursor: pointer;
+    border-radius: 0.5em;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    background-color: #BF9270;
+}
+
+.copyright {
+    color: #313552;
+    font-size: 0.90rem;
+    font-weight: 900;
+    text-align: right;
+    margin-top: 0.5em;
+    margin-right: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
